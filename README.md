@@ -5,8 +5,8 @@
 
 - Git не дал из-за ограничения размера файлов загрузить source файлы, поэтому я разместил их вместе с билдом игры по ссылке https://disk.yandex.ru/d/KlgWX2afeq7HtA. Прошу прощения. 
 
-3. Скриншоты: https://disk.yandex.ru/i/WnWN-JpOqwc4Zw https://disk.yandex.ru/i/wMqv1zelyu4Twg
-
+3. Скриншоты: ![полет](https://github.com/mentoster/RTUITLab1/blob/main/FecZHtfcs3A.jpg?raw=true)
+![полет](https://github.com/mentoster/RTUITLab1/blob/main/4neMcHmGdXo.jpg?raw=true)
 4. Инструкция по запуску: Для успешного запуска требуется устройство на операционной системе Windows, Unity SDK, Visual Studio C++ Redistributable, а так же файлы билда (ассеты, скрипты, exe. и тд.) 
 
 5. История изменений: Из-за проблем с Git LFS (ограниченный размер хранилища) не получилось вести историю commit'ов проекта и мною было принято решение сосредоточиться на разработке, а потом загрузить проект целиком, чтобы уложиться во временные рамки. Прошу прощения, снизу документирую примерную историю разработки:
